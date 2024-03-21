@@ -14,14 +14,22 @@
 
 </head>
 <body>
-    <h1 class="text-danger">hello gamers!</h1>
-    <h1 class="text-danger">hello gamers!</h1>
-    <h1 class="text-danger">hello gamers!</h1>
-    <h1 class="text-danger">hello gamers!</h1>
-    <h1 class="text-danger">hello gamers!</h1>
-    <h1 class="text-danger">hello gamers!</h1>
-    <h1 class="text-danger">hello gamers!</h1>
-    <h1 class="text-danger">hello gamers!</h1>
-    <h1 class="text-danger">hello gamers!</h1>
+    <header>
+       <div class="text-center">
+            Questo è un bellissimo header
+       </div>
+    </header>
+
+    <main>
+        @foreach ( as )
+
+        @endforeach
+    </main>
+
+    <footer>
+        <div class="text-center">
+            Questo è un bellissimo footer
+       </div>
+    </footer>
 </body>
 </html>

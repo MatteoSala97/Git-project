@@ -29,7 +29,7 @@
 
     <footer>
         <div class="text-center">
-            Questo è un bellissimo footer
+            Questo è un bruttissimo footer
        </div>
     </footer>
 

@@ -14,6 +14,7 @@
 
 </head>
 <body>
+
     <header>
        <div class="text-center">
             Questo è un bellissimo header
@@ -22,7 +23,7 @@
 
     <main>
         @foreach ( as )
-
+            
         @endforeach
     </main>
 
@@ -31,5 +32,6 @@
             Questo è un bellissimo footer
        </div>
     </footer>
+
 </body>
 </html>
